@@ -18,7 +18,7 @@ pip install tkintertable==1.3.3
 ```
 
 ## 快速开始
-1. 运行主程序：`python main.py`
+1. 运行主程序：`python gui.py`
 2. 点击"选择文件"按钮导入PDF
 3. 点击"开始提取"按钮
 5. 结果保存到output目录
